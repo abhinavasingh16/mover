@@ -28,3 +28,8 @@ def children(W, H, board):
     if i < W*(H-1):     ### not on bottom edge
         children.append(swap(board, i,i+W))
     return children
+
+
+if __name__ == "__main__":
+    sol = solution(2,2)
+    print(children(2,2,sol))

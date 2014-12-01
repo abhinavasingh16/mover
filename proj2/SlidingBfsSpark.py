@@ -42,6 +42,17 @@ def solve_sliding_puzzle(master, output, height, width):
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 """ DO NOT EDIT PAST THIS LINE
 
 You are welcome to read through the following code, but you
